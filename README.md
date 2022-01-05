@@ -10,6 +10,7 @@ The warpAffine() function applies an affine transformation to the image. After a
 
 Code:
 
+
  import cv2
  
 image = cv2.imread('girl.jpg')
